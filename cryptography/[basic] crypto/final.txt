@@ -1,0 +1,13 @@
+Congratulations!
+
+You have finished the beginner cryptography challenge.
+
+Here is a flag for all your hard efforts:
+
+utflagnwthtswhticllcrypt
+
+You will find that a lot of cryptography is just building off this sort of
+basic knowledge, and it really is not so bad after all!
+
+Hope you enjoyed the challenge!
+
